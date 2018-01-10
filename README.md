@@ -1,5 +1,7 @@
 # Verif-email 🕶
 
+> Feito em PHP 🐘
+
 É uma aplicação mais pessoal mesmo, usado funções nativas do PHP desde a versão 4 é compatível com essa poderosa ferramenta.
 
 ## 🎈 Cuidado
